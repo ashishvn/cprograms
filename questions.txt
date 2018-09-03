@@ -1,0 +1,20 @@
+1)what is #include in this
+what is use of <
+what is the use of>
+what is the use of#
+what is the use of<stdio.h>
+what is the use of {
+what is the use of }
+what is the use of ("hello world");
+what is the use of "
+what is the use of this program
+what is the use of retun 0;
+what is the use of the colours in the program
+how does it runs 
+how this program is created
+why does the program indicates numbers
+finally what will we get by this
+at the end why the } is there 
+and at the starting why the { is there
+what is the meanig of print f
+does the 0 indicates the no of solutions we get
